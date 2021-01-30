@@ -1,0 +1,4 @@
+{
+  "mongo": "mongodb+srv://<username>:<password>@cluster0.ktk9o.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwt": "secret"
+}
