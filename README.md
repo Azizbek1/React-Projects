@@ -1,2 +1,1 @@
-# React-Projects
-Different React Projects
+# Проекты на React
