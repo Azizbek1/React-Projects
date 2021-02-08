@@ -1,0 +1,10 @@
+#train {
+  width: 100px;
+  height: 90px;
+  background-image: url('./train.png');
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  bottom: 0;
+}
