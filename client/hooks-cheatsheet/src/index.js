@@ -26,7 +26,7 @@ import './index.css'
 
 // import { LayoutEffect } from "./hooks/useLayoutEffect/LayoutEffect"
 
-// import { ChangeTheme } from "./hooks/useContext/ChangeTheme"
+// import { Theme } from "./hooks/useContext/Theme"
 
 // import { TodoAppContext } from './hooks/useContext/TodoAppContext'
 
@@ -83,7 +83,7 @@ function App() {
 
       {/* <UserList /> */}
 
-      {/* <ChangeTheme /> */}
+      {/* <Theme /> */}
 
       {/* <LayoutEffect /> */}
 
