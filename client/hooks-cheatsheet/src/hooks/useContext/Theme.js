@@ -1,6 +1,6 @@
 import React, { useState, useContext, createContext } from 'react'
 
-export const ChangeTheme = () => {
+export const Theme = () => {
   const [mode, setMode] = useState('light')
 
   const handleClick = () => {
