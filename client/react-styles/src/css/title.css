@@ -1,0 +1,8 @@
+.app_title {
+  position: absolute;
+  top: 0.5em;
+  font-size: 3em;
+  letter-spacing: 2px;
+  text-shadow: 1px 1px 0 #f0f0f0, 2px 2px #1c1c1c;
+  color: #337ab7;
+}
