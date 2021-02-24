@@ -9,12 +9,14 @@ db.defaults({
   messages: [
     {
       messageId: '1',
+      userId: '1',
       senderName: 'Bob',
       messageText: 'What are you doing here?',
       createdAt: '2021-01-14'
     },
     {
       messageId: '2',
+      userId: '2',
       senderName: 'Alice',
       messageText: 'Go back to work!',
       createdAt: '2021-02-15'
