@@ -1,0 +1,34 @@
+header {
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+li + li {
+  margin-left: 1rem;
+}
+
+aside {
+  text-align: center;
+}
+
+main {
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.fade-enter {
+  opacity: 0;
+  z-index: 1;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 250ms ease-in;
+}
